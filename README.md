@@ -27,3 +27,5 @@ git init
 
     git branch 
      git branch dev 
+
+     git checkout main
