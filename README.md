@@ -22,5 +22,8 @@ git init
     git remote add origin https://github.com/Ahmed9030/Git.git
 
     git branch -M main
-    
+
     git push -u origin main
+
+    git branch 
+     git branch dev 
