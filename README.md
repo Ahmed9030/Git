@@ -26,6 +26,8 @@ git init
     git push -u origin main
 
     git branch 
-     git branch dev 
+    git branch dev 
 
-     git checkout main
+    git checkout main
+
+    git merge dev
